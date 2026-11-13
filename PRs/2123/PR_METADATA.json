@@ -7,26 +7,26 @@
   "build_status": "success",
   "authors_count": 5,
   "stats": {
-    "_source_head_sha": "597e9a2b4879f4c82d56fd5034330b4787213af1",
-    "_collected_at": "2026-11-13T06:19:30Z",
+    "_source_head_sha": "57a3a7960d91fb9cd462b8761862f1b824ee234b",
+    "_collected_at": "2026-11-13T19:31:13Z",
     "_complete": true,
     "_error": null,
     "pr_state": "OPEN",
     "pr_created_at": "2025-05-30T14:09:19Z",
-    "pr_updated_at": "2026-11-13T01:13:33Z",
+    "pr_updated_at": "2026-11-13T18:14:02Z",
     "review_decision": "REVIEW_REQUIRED",
     "commits": {
-      "count": 136,
+      "count": 138,
       "first_at": "2025-05-20T15:24:26Z",
-      "last_at": "2026-11-05T13:57:08Z"
+      "last_at": "2026-11-13T14:33:57Z"
     },
     "reviews": {
       "approved": 0,
       "changes_requested": 0,
-      "commented": 139,
+      "commented": 141,
       "dismissed": 1,
       "pending": 0,
-      "total": 140,
+      "total": 142,
       "by_author": {
         "effigies": {
           "approved": 0,
@@ -183,13 +183,25 @@
           "last_state": "COMMENTED",
           "effective_state": null,
           "total": 2
+        },
+        "bclenet": {
+          "approved": 0,
+          "commented": 2,
+          "changes_requested": 0,
+          "dismissed": 0,
+          "pending": 0,
+          "first_at": "2026-11-13T14:09:42Z",
+          "last_at": "2026-11-13T14:09:42Z",
+          "last_state": "COMMENTED",
+          "effective_state": null,
+          "total": 2
         }
       }
     },
     "comments": {
       "issue_count": 81,
-      "review_thread_count": 183,
-      "total": 264,
+      "review_thread_count": 184,
+      "total": 265,
       "first_at": "2025-05-30T14:12:14Z",
       "last_at": "2026-11-13T01:06:21Z",
       "by_author": {
