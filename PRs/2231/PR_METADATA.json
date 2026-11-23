@@ -8,17 +8,17 @@
   "authors_count": 3,
   "stats": {
     "_source_head_sha": "d02449331a81d188ab317e0f5c37c166d34e1851",
-    "_collected_at": "2026-11-23T07:14:48Z",
+    "_collected_at": "2026-11-23T23:45:27Z",
     "_complete": true,
     "_error": null,
     "pr_state": "OPEN",
     "pr_created_at": "2025-10-25T16:42:26Z",
-    "pr_updated_at": "2026-11-19T21:49:13Z",
+    "pr_updated_at": "2026-11-23T23:45:02Z",
     "review_decision": "APPROVED",
     "commits": {
-      "count": 85,
+      "count": 86,
       "first_at": "2025-10-25T15:41:03Z",
-      "last_at": "2026-09-30T03:56:37Z"
+      "last_at": "2026-11-23T23:25:35Z"
     },
     "reviews": {
       "approved": 2,
@@ -208,8 +208,8 @@
     "review_threads": {
       "total": 25,
       "unresolved": 5,
-      "unresolved_active": 4,
-      "unresolved_outdated": 1,
+      "unresolved_active": 3,
+      "unresolved_outdated": 2,
       "unresolved_by_author": {
         "yarikoptic": {
           "count": 1,
